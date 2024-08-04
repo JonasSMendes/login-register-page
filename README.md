@@ -2,7 +2,7 @@
 
 Este projeto full stack tem como objetivo criar uma página de login e registro. Ao se registrar, o usuário recebe um token interno que permite o acesso por meio de login. Utilizamos JWT (JSON Web Token) para a autenticação e segurança.
 
-![image](https://github.com/user-attachments/assets/8a525f5e-6d7d-4483-a42d-a4cd792d209b)
+
 
 
 ## ⚙️ Funcionalidades
@@ -11,17 +11,17 @@ Este projeto full stack tem como objetivo criar uma página de login e registro.
 - [x]  Pagina Registro;
 - [X]  Responsividade;
 
+
+## 🛣️ Rotas:
+  #### /login - Página de login
+  ![image](https://github.com/user-attachments/assets/9c125708-27e3-47c7-838b-fa0334dbad6d)
+  #### /register - Página de registro
+  ![image](https://github.com/user-attachments/assets/c5d29810-e544-4159-85c1-525f95b144db)
+
+
 ## 🛠 Tecnologias
 
 Back-end: JAVA e Spring com integração JWT - [Link do repositorio backend](https://github.com/JonasSMendes/java-auth-login-api)
-
-![image](https://github.com/user-attachments/assets/94bb0bde-d56c-4fda-9cef-475ba72a9f08)
-
-* Rotas:
-  * /login - Página de login
-  * /register - Página de registro
-
-
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
