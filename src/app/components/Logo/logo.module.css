@@ -1,0 +1,14 @@
+.logo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.logo h1{
+    font-size: 32px;
+    font-weight: 500;
+    font-family: "Poppins";
+    line-height: 48px;
+}
+.logo img{
+    width: 450px;
+}

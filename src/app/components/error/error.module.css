@@ -1,0 +1,38 @@
+.main{
+    width: 466px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    position: absolute;
+    top: 0px;
+    
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.info img{
+    width: 35px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.info p{
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+    color: #FFF;
+}
+
+.info h2{
+    position: absolute;
+    color: #FFF;
+    top: 0;
+    right: 0;
+    padding: 8px;
+    cursor: pointer;
+}
