@@ -36,3 +36,16 @@
     padding: 8px;
     cursor: pointer;
 }
+
+@media (max-width: 1124px) {
+    .main{
+        width:330px;
+    }
+
+}
+
+@media (max-width: 430px) {
+    .main{
+        width: 330px;
+    }
+}
