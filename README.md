@@ -30,6 +30,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - **[Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 - **[typeScript](https://www.typescriptlang.org/docs/)**
+- **[Figma](https://www.figma.com/design/7T1wkErczpMOBeqtpVjMSb/Login-Page-Design?node-id=6-920&t=ooqMHZpxnrR2yoxY-0)**
 
 ---
 
